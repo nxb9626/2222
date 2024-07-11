@@ -1,7 +1,7 @@
 # 2222 in Mac OS Bash
 
-Mac OS bash because it may run some apple script, and uses the apple specific
-`fmt` command. On other systems it seems to print fine, but not centered.
+"Mac OS bash" because it may run apple script, and uses the apple specific `fmt`
+command. On other systems it seems to print fine, but does not center.
 
 To play this version:
 
@@ -13,6 +13,5 @@ To play this version:
    an alert for each word, that must be `OK`'d. Changing the first apple to
    something else will enable only the alerts.
 
-> [!WARNING]
-> Note: Both notifications and Alerts struggle to keep up with the required
-> sleep so are not enabled by default.
+> [!WARNING] Note: Both notifications and Alerts struggle to keep up with the
+> required timer so are not enabled by default.
